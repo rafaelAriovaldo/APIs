@@ -1,0 +1,14 @@
+{
+    "name": "Rafael",
+    "city": "alto Piquiri",
+    "number":"45454534666",
+    "book_favorites":[
+        "alice na boca de fumo",
+        "Bela e rico",
+        "ball of prata"
+    ],
+    "hobbies":{
+        "week": "studing",
+        "weekend":"paly games"
+    }
+}
