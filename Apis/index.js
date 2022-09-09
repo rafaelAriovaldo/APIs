@@ -10,4 +10,4 @@ app.route('/juara').get((req, res) => res.send("hello word é o caralho"))
 */
 //middware
 app.use(express.json())
-app.route('/').post((req, res) => console.log(req.body))
+app.route('/').post((req, res) => res.send(req.body))//mostra no insomia
